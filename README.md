@@ -1,4 +1,4 @@
-<img src="" alt="Header image">
+<img src="https://raw.githubusercontent.com/mrkp/mrkp/master/header.png" alt="Header image">
 
 ### Hi there 👋
 
@@ -43,4 +43,4 @@ Here's a list of things I currently keep myself busy with:
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/footer.svg" alt="Footer image">
+<img src="https://raw.githubusercontent.com/mrkp/mrkp/master/footer.png" alt="Footer image">
