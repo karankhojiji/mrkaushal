@@ -8,7 +8,7 @@ Here's a list of things I currently keep myself busy with:
 
 - :man_technologist: Working as a full stack developer over at **[QuantumX](https://www.quantumx.dev/)** using [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/)
 - ☀️ Maintaining nothing as of today.
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/bhut_keyur)**.
+- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/mrkp)**.
 - 🛠 Getting myself into JAMStack. Trying out [Netlify CMS](https://www.netlifycms.org/) and [Coursera](https://www.coursera.org/) in my spare time.
 
 <details>
