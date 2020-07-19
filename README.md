@@ -34,7 +34,7 @@ Here's a list of things I currently keep myself busy with:
   <p align="center">
     <a href="https://twitter.com/mr_kaushal_p" alt="Twitter"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/linkedin-fill.svg"></a>
-    <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/mail-fill.svg"></a>
+    <a href="mailto:mr.kaushal.dev@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/mail-fill.svg"></a>
     <!-- <a href="javascript:void(0)" alt="My site"><img src="https://raw.githubusercontent.com/mrkp/mrkp/master/src/external-link-line.svg"></a> -->
   </p>
 
