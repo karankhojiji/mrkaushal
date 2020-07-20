@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mrkp/mrkp/master/header.png" alt="Header image">
+<img src="" alt="Header image">
 
 ### Hi there 👋
 
