@@ -34,7 +34,7 @@ Here's a list of things I currently keep myself busy with:
   <p align="center">
     <a href="https://instagram.com/mr.kaushal.p" alt="Instagram"><img src="https://raw.githubusercontent.com/mrkaushal/mrkaushal/a21acd30c6e9d4f08f0e290335e09b720947350a/Icons/icons8-instagram.svg"></a>
     <a href="https://twitter.com/mr_kaushal_p" alt="Twitter"><img src="https://raw.githubusercontent.com/mrkaushal/mrkaushal/c19491f2156687eae0b88120b86ab916cbda39c1/Icons/icons8-twitter.svg"></a>
-    <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/linkedin-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="https://github.com/mrkaushal/mrkaushal/blob/master/Icons/icons8-linkedin-2.gif?raw=true"></a>
     <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="https://github.com/mrkaushal/mrkaushal/blob/master/Icons/icons8-secured-letter-64.png?raw=true"></a>
     <!-- <a href="javascript:void(0)" alt="My site"><img src="https://raw.githubusercontent.com/mrkp/mrkp/master/src/external-link-line.svg"></a> -->
   </p>
