@@ -24,7 +24,7 @@ Here's a list of things I currently keep myself busy with:
   - 😄 Pronouns: He/Him/His
   - ⚡ Fun fact: I :heart: :man_technologist:
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=mrkp&show_icons=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=mrkaushal&show_icons=true)
 </details>
 
 <hr>
