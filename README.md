@@ -1,4 +1,4 @@
-<img src="https://github.com/mrkp/mrkp/blob/master/header.png?raw=true" alt="Header image">
+<img src="HnF/header.png" alt="Header image">
 
 ### Hi there 👋
 
@@ -45,4 +45,4 @@ Here's a list of things I currently keep myself busy with:
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/mrkp/mrkp/master/footer.png" alt="Footer image">
+<img src="HnF/footer.png" alt="Footer image">
