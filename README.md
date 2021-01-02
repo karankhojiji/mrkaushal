@@ -32,10 +32,11 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://instagram.com/ikaushalp_" alt="Instagram"><img src="https://github.com/mrkaushal/mrkaushal/blob/master/Icons/instagram.gif" width="40px"></a>
-    <a href="https://twitter.com/ikaushalp" alt="Twitter"><img src="https://github.com/mrkaushal/mrkaushal/blob/master/Icons/twitter.gif" width="40px"></a>
-    <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="https://github.com/mrkaushal/mrkaushal/blob/master/Icons/linkedin-2.gif" width="40px"></a>
-    <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="https://github.com/mrkaushal/mrkaushal/blob/master/Icons/mail.png" width="40px"></a>
+    <a href="https://facebook.com/its.kaushal.patel" alt="Facebook"><img src="Icons/facebook.gif" width="40px"></a>
+    <a href="https://instagram.com/its.kaushal.patel" alt="Instagram"><img src="Icons/instagram.gif" width="40px"></a>
+    <a href="https://twitter.com/ikaushalp" alt="Twitter"><img src="Icons/twitter.gif" width="40px"></a>
+    <a href="https://www.linkedin.com/in/mrkaushalp/" alt="Linkedin"><img src="Icons/linkedin.gif" width="40px"></a>
+    <a href="mailto:mr.kaushal.p@gmail.com" alt="Contact me"><img src="Icons/mail.gif" width="40px"></a>
     <!-- <a href="javascript:void(0)" alt="My site"><img src="https://raw.githubusercontent.com/mrkp/mrkp/master/src/external-link-line.svg"></a> -->
   </p>
 
